@@ -1,8 +1,7 @@
 # Battlebot Sherman - 2018
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Sherman es el un battlebot, un robot cuya misión es destruir y aniquilar a los demás robots, pese a su exceso de ternura es una amenaza considerable así que no hay que confiarse. 
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/Sherman.png)
 
 
 
@@ -18,10 +17,10 @@
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+Sherman posee un disco de corte o sierra en su parte frontal con el fin de causar daño al enemigo, se mueve mediante una polea conectada a un motor que la hará girar. Es importante que el giro sea hacia abajo por temas de eficiencia y para no soltar el brazo que sostiene el disco.
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+Claramente, Sherman es una tortuga, por lo tanto al verse en peligro o sentirse vulnerado, usa su caparazón (hecho a partir de un casco de construcción) para repeler los ataques.
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
