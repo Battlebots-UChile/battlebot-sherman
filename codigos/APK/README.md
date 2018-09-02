@@ -1,3 +1,3 @@
 # Código de la Aplicación
 
-Subir archivo **.apk** y código de la APK ([descargar desde acá](http://appinventor.mit.edu/explore/support/sharing-code.html))
+El archivo **.apk** se instala en tu Android, si se desea modificar la aplicación, importar el archivo **.aia** ([aquí](http://ai2.appinventor.mit.edu))
