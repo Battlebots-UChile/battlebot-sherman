@@ -1,4 +1,4 @@
 # Lluvia de Ideas
 
-Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración externa.
-Subir bocetos, con una breve expicación de las ideas del boceto.
+Todos estos son sketches del Brainstorming inicial al momento de pensar en como sería el robot (hasta el momento sin nombre).
+Las ideas varían bastante, sin embargo el enfoque central converge a un armadillo o una tortuga por su buena defensiva
