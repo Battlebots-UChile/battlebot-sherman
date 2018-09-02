@@ -1,3 +1,3 @@
-# Códigos Arduino
+# Código Arduino
 
-Subir códigos **comentados** utilizados en Arduino.
+Código que logra que todo funcione.
