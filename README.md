@@ -1,4 +1,4 @@
-# <Título del proyecto> - <Año>
+# Battlebot Sherman - 2018
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
@@ -7,10 +7,11 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Marian Mazurett - FCFM
+- Pedro Bravo - FCFM
+- Bryan Ortiz - FCFM
+## Antiguos Integrantes
+- Sebastián Magaña - FAU
 
 
 ## Descripción del proyecto
