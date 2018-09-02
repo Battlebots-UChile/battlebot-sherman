@@ -1,5 +1,5 @@
 # Battlebot Sherman - 2018
-Sherman es el un battlebot, un robot cuya misión es destruir y aniquilar a los demás robots, pese a su exceso de ternura es una amenaza considerable así que no hay que confiarse. 
+Sherman es una Tortuga (Tortuga-Unicornio quizás) battlebot, un robot cuya misión es destruir y aniquilar a los demás robots, pese a su exceso de ternura es una amenaza considerable así que no hay que confiarse. 
 
 ![Robot Ejemplo](/multimedia/Sherman.png)
 
