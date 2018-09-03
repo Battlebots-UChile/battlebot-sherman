@@ -1,17 +1,22 @@
 # Archivos multimedia de los battlebots
 
 Proceso:
-![1](./Sherman_Proceso(1).jpg)
-![2](./Sherman_Proceso(2).jpg)
-![3](./Sherman_Proceso(3).jpg)
-![4](./Sherman_Proceso(4).jpg)
-![5](./Sherman_Proceso(5).jpg)
-![6](./Sherman_Proceso(6).jpg)
-![7](./Sherman_Proceso(7).jpg)
-![8](./Sherman_Proceso(8).jpg)
-![9](./Sherman_Proceso(9).jpg)
-![10](./Sherman_Proceso(10).jpg)
-- Foto del proyecto terminado
-- Vídeo de demostración/funcionamiento
-
-Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+![1](./Proceso01.jpg)
+![2](./Proceso02.jpg)
+![3](./Proceso03.jpg)
+![4](./Proceso04.jpg)
+![5](./Proceso05.jpg)
+![6](./Proceso06.jpg)
+![7](./Proceso07.jpg)
+![8](./Proceso08.jpg)
+![9](./Proceso09.jpg)
+![10](./Proceso10.jpg)
+![11](./Proceso11.jpg)
+![12](./Proceso12.jpg)
+![13](./Proceso13.jpg)
+![14](./Proceso14.jpg)
+![15](./Proceso15.jpg)
+![16](./Proceso16.jpg)
+![17](./Proceso17.jpg)
+![18](./Proceso18.jpg)
+![19](./Proceso19.jpg)
