@@ -23,7 +23,7 @@ Sherman posee un disco de corte o sierra en su parte frontal con el fin de causa
 Claramente, Sherman es una tortuga, por lo tanto al verse en peligro o sentirse vulnerado, usa su caparazón (hecho a partir de un casco de construcción) para repeler los ataques.
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+(/multimedia/diagramita.png)
 
 ### *BONUS*: Paso a Paso
 #### Paso 0 (Materiales)
